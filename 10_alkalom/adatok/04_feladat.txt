@@ -1,0 +1,20 @@
+Harry Potter;12
+A Gyűrűk Ura;7
+Egri csillagok;9
+Pál utcai fiúk;15
+Lúdas Matyi;5
+Tüskevár;11
+A kis herceg;18
+Bűn és bűnhődés;4
+Nyomorultak;13
+A Pál utcai fiúk;9
+Kincskereső kisködmön;6
+A dzsungel könyve;8
+Szíriusz kapitány;14
+Szent Péter esernyője;7
+A három testőr;16
+A kőszívű ember fiai;19
+Az arany ember;3
+Az időutazó felesége;10
+Télapó nyomában;2
+A tanú;1
