@@ -1,0 +1,17 @@
+[
+    {
+        "név": "Anna",
+        "pozíció": "Mérnök",
+        "fizetés": 500000
+    },
+    {
+        "név": "Péter",
+        "pozíció": "Fejlesztő",
+        "fizetés": 700000
+    },
+    {
+        "név": "László",
+        "pozíció": "Projektvezető",
+        "fizetés": 600000
+    }
+]

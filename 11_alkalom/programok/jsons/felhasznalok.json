@@ -1,0 +1,9 @@
+[
+ {
+  "név-dict": "Anna",
+  "kor": 25,
+  "város": "Budapest"},
+ {"név": "Péter", "kor": 35, "város": "Debrecen"},
+ {"név": "László", "kor": 40, "város": "Szeged"},
+ {"név": "Júlia", "kor": 28, "város": "Pécs"}
+]

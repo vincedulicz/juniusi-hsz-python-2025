@@ -1,0 +1,19 @@
+[
+    3,
+    5,
+    7,
+    12,
+    18
+]
+
+{
+    "company":{
+        "employee":{
+            "name":"emma",
+            "payble":{
+                "salary":7000,
+                "bonus":800
+            }
+        }
+    }
+}
