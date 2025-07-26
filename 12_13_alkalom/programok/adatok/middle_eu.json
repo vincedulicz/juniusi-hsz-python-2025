@@ -1,0 +1,29 @@
+{
+    "user-ko6Xpc": {
+        "valid_until": "2025.12.25",
+        "born-date": "1963.07.15",
+        "name": "Bob Brown",
+        "age": 62,
+        "country": "HU",
+        "worker": true,
+        "other": []
+    },
+    "user-BAfmJK": {
+        "valid_until": "2025.11.18",
+        "born-date": "1959.03.15",
+        "name": "Jane Smith",
+        "age": 66,
+        "country": "HU",
+        "worker": true,
+        "other": []
+    },
+    "user-0ksa2r": {
+        "valid_until": "2026.02.01",
+        "born-date": "1968.10.07",
+        "name": "Alice Johnson",
+        "age": 57,
+        "country": "HU",
+        "worker": false,
+        "other": []
+    }
+}

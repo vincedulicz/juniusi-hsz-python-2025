@@ -1,0 +1,38 @@
+{
+    "user-aiJZJO": {
+        "valid_until": "2026.06.21",
+        "born-date": "1951.10.16",
+        "name": "Jane Smith",
+        "age": 74,
+        "country": "EU",
+        "worker": false,
+        "other": []
+    },
+    "user-Gfw5lV": {
+        "valid_until": "2025.08.10",
+        "born-date": "1961.02.24",
+        "name": "Jane Smith",
+        "age": 64,
+        "country": "EU",
+        "worker": false,
+        "other": []
+    },
+    "user-0ksa2r": {
+        "valid_until": "2026.02.01",
+        "born-date": "1968.10.07",
+        "name": "Alice Johnson",
+        "age": 57,
+        "country": "HU",
+        "worker": false,
+        "other": []
+    },
+    "user-UEgtSX": {
+        "valid_until": "2026.05.22",
+        "born-date": "1932.02.10",
+        "name": "John Doe",
+        "age": 93,
+        "country": "SP",
+        "worker": false,
+        "other": []
+    }
+}
