@@ -1,0 +1,20 @@
+[
+    {
+        "nev": "Teszt Elek",
+        "kor": 30,
+        "cim": "Teszt utca 1",
+        "iranyitoszam": 1234
+    },
+    {
+        "nev": "Minta M\u00e1rton",
+        "kor": 25,
+        "cim": "Minta t\u00e9r 2",
+        "iranyitoszam": 5678
+    },
+    {
+        "nev": "P\u00e9lda P\u00e1l",
+        "kor": 40,
+        "cim": "P\u00e9lda k\u00f6r\u00fat 3",
+        "iranyitoszam": 1234
+    }
+]
