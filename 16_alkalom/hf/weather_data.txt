@@ -1,0 +1,524 @@
+Dátum: 2025-08-04
+Időjárás: esős
+Hőmérséklet: 14.5C
+Várható eső: 39%
+Dátum: 2025-08-05
+Időjárás: szeles
+Hőmérséklet: 15.8C
+Várható eső: 16%
+Dátum: 2025-08-06
+Időjárás: napos
+Hőmérséklet: 10.3C
+Várható eső: 23%
+Dátum: 2025-08-07
+Időjárás: ködös
+Hőmérséklet: 10.1C
+Várható eső: 82%
+Dátum: 2025-08-08
+Időjárás: ködös
+Hőmérséklet: 3.7C
+Várható eső: 75%
+Dátum: 2025-08-09
+Időjárás: ködös
+Hőmérséklet: 15.4C
+Várható eső: 42%
+Dátum: 2025-08-10
+Időjárás: ködös
+Hőmérséklet: 13.0C
+Várható eső: 49%
+Dátum: 2025-08-11
+Időjárás: semillen
+Hőmérséklet: 8.4C
+Várható eső: 93%
+Dátum: 2025-08-12
+Időjárás: ködös
+Hőmérséklet: 17.2C
+Várható eső: 12%
+Dátum: 2025-08-13
+Időjárás: szeles
+Hőmérséklet: 19.2C
+Várható eső: 6%
+Dátum: 2025-08-14
+Időjárás: esős
+Hőmérséklet: 9.1C
+Várható eső: 71%
+Dátum: 2025-08-15
+Időjárás: napos
+Hőmérséklet: 4.6C
+Várható eső: 23%
+Dátum: 2025-08-16
+Időjárás: napos
+Hőmérséklet: 9.3C
+Várható eső: 96%
+Dátum: 2025-08-17
+Időjárás: semillen
+Hőmérséklet: 3.4C
+Várható eső: 6%
+Dátum: 2025-08-18
+Időjárás: esős
+Hőmérséklet: 16.0C
+Várható eső: 88%
+Dátum: 2025-08-19
+Időjárás: ködös
+Hőmérséklet: 14.2C
+Várható eső: 97%
+Dátum: 2025-08-20
+Időjárás: semillen
+Hőmérséklet: 14.4C
+Várható eső: 30%
+Dátum: 2025-08-21
+Időjárás: ködös
+Hőmérséklet: 9.3C
+Várható eső: 64%
+Dátum: 2025-08-22
+Időjárás: napos
+Hőmérséklet: 0.6C
+Várható eső: 34%
+Dátum: 2025-08-23
+Időjárás: ködös
+Hőmérséklet: 14.2C
+Várható eső: 71%
+Dátum: 2025-08-24
+Időjárás: esős
+Hőmérséklet: 8.4C
+Várható eső: 53%
+Dátum: 2025-08-25
+Időjárás: esős
+Hőmérséklet: 5.5C
+Várható eső: 11%
+Dátum: 2025-08-26
+Időjárás: semillen
+Hőmérséklet: 18.6C
+Várható eső: 6%
+Dátum: 2025-08-27
+Időjárás: szeles
+Hőmérséklet: 14.6C
+Várható eső: 68%
+Dátum: 2025-08-28
+Időjárás: semillen
+Hőmérséklet: 1.5C
+Várható eső: 54%
+Dátum: 2025-08-29
+Időjárás: semillen
+Hőmérséklet: 1.2C
+Várható eső: 95%
+Dátum: 2025-08-30
+Időjárás: ködös
+Hőmérséklet: 18.4C
+Várható eső: 9%
+Dátum: 2025-08-31
+Időjárás: szeles
+Hőmérséklet: 18.0C
+Várható eső: 31%
+Dátum: 2025-09-01
+Időjárás: napos
+Hőmérséklet: 7.3C
+Várható eső: 4%
+Dátum: 2025-09-02
+Időjárás: ködös
+Hőmérséklet: 17.0C
+Várható eső: 90%
+Dátum: 2025-09-03
+Időjárás: napos
+Hőmérséklet: 10.2C
+Várható eső: 67%
+Dátum: 2025-09-04
+Időjárás: semillen
+Hőmérséklet: 1.1C
+Várható eső: 36%
+Dátum: 2025-09-05
+Időjárás: szeles
+Hőmérséklet: 2.0C
+Várható eső: 14%
+Dátum: 2025-09-06
+Időjárás: napos
+Hőmérséklet: 15.0C
+Várható eső: 53%
+Dátum: 2025-09-07
+Időjárás: ködös
+Hőmérséklet: 2.4C
+Várható eső: 62%
+Dátum: 2025-09-08
+Időjárás: ködös
+Hőmérséklet: 9.9C
+Várható eső: 51%
+Dátum: 2025-09-09
+Időjárás: semillen
+Hőmérséklet: 4.6C
+Várható eső: 71%
+Dátum: 2025-09-10
+Időjárás: ködös
+Hőmérséklet: 9.1C
+Várható eső: 47%
+Dátum: 2025-09-11
+Időjárás: napos
+Hőmérséklet: 15.8C
+Várható eső: 3%
+Dátum: 2025-09-12
+Időjárás: semillen
+Hőmérséklet: 14.9C
+Várható eső: 64%
+Dátum: 2025-09-13
+Időjárás: szeles
+Hőmérséklet: 16.3C
+Várható eső: 75%
+Dátum: 2025-09-14
+Időjárás: ködös
+Hőmérséklet: 1.4C
+Várható eső: 78%
+Dátum: 2025-09-15
+Időjárás: ködös
+Hőmérséklet: 0.8C
+Várható eső: 94%
+Dátum: 2025-09-16
+Időjárás: szeles
+Hőmérséklet: 4.4C
+Várható eső: 50%
+Dátum: 2025-09-17
+Időjárás: semillen
+Hőmérséklet: 5.3C
+Várható eső: 44%
+Dátum: 2025-09-18
+Időjárás: semillen
+Hőmérséklet: 18.6C
+Várható eső: 73%
+Dátum: 2025-09-19
+Időjárás: esős
+Hőmérséklet: 1.9C
+Várható eső: 21%
+Dátum: 2025-09-20
+Időjárás: ködös
+Hőmérséklet: 7.2C
+Várható eső: 86%
+Dátum: 2025-09-21
+Időjárás: semillen
+Hőmérséklet: 16.9C
+Várható eső: 4%
+Dátum: 2025-09-22
+Időjárás: semillen
+Hőmérséklet: 2.2C
+Várható eső: 19%
+Dátum: 2025-09-23
+Időjárás: esős
+Hőmérséklet: 6.8C
+Várható eső: 72%
+Dátum: 2025-09-24
+Időjárás: napos
+Hőmérséklet: 15.8C
+Várható eső: 16%
+Dátum: 2025-09-25
+Időjárás: esős
+Hőmérséklet: 17.0C
+Várható eső: 7%
+Dátum: 2025-09-26
+Időjárás: esős
+Hőmérséklet: 11.5C
+Várható eső: 22%
+Dátum: 2025-09-27
+Időjárás: napos
+Hőmérséklet: 18.6C
+Várható eső: 5%
+Dátum: 2025-09-28
+Időjárás: ködös
+Hőmérséklet: 5.5C
+Várható eső: 5%
+Dátum: 2025-09-29
+Időjárás: szeles
+Hőmérséklet: 16.4C
+Várható eső: 16%
+Dátum: 2025-09-30
+Időjárás: napos
+Hőmérséklet: 6.1C
+Várható eső: 91%
+Dátum: 2025-10-01
+Időjárás: szeles
+Hőmérséklet: 3.3C
+Várható eső: 77%
+Dátum: 2025-10-02
+Időjárás: napos
+Hőmérséklet: 17.9C
+Várható eső: 68%
+Dátum: 2025-10-03
+Időjárás: ködös
+Hőmérséklet: 6.2C
+Várható eső: 1%
+Dátum: 2025-10-04
+Időjárás: semillen
+Hőmérséklet: 6.4C
+Várható eső: 26%
+Dátum: 2025-10-05
+Időjárás: esős
+Hőmérséklet: 3.9C
+Várható eső: 44%
+Dátum: 2025-10-06
+Időjárás: szeles
+Hőmérséklet: 13.2C
+Várható eső: 87%
+Dátum: 2025-10-07
+Időjárás: ködös
+Hőmérséklet: 7.9C
+Várható eső: 36%
+Dátum: 2025-10-08
+Időjárás: szeles
+Hőmérséklet: 0.6C
+Várható eső: 72%
+Dátum: 2025-10-09
+Időjárás: napos
+Hőmérséklet: 13.0C
+Várható eső: 90%
+Dátum: 2025-10-10
+Időjárás: szeles
+Hőmérséklet: 4.7C
+Várható eső: 88%
+Dátum: 2025-10-11
+Időjárás: szeles
+Hőmérséklet: 12.9C
+Várható eső: 45%
+Dátum: 2025-10-12
+Időjárás: napos
+Hőmérséklet: 18.2C
+Várható eső: 84%
+Dátum: 2025-10-13
+Időjárás: semillen
+Hőmérséklet: 17.6C
+Várható eső: 22%
+Dátum: 2025-10-14
+Időjárás: esős
+Hőmérséklet: 10.8C
+Várható eső: 25%
+Dátum: 2025-10-15
+Időjárás: szeles
+Hőmérséklet: 10.6C
+Várható eső: 93%
+Dátum: 2025-10-16
+Időjárás: semillen
+Hőmérséklet: 3.4C
+Várható eső: 85%
+Dátum: 2025-10-17
+Időjárás: esős
+Hőmérséklet: 12.5C
+Várható eső: 35%
+Dátum: 2025-10-18
+Időjárás: esős
+Hőmérséklet: 16.0C
+Várható eső: 32%
+Dátum: 2025-10-19
+Időjárás: semillen
+Hőmérséklet: 0.6C
+Várható eső: 75%
+Dátum: 2025-10-20
+Időjárás: ködös
+Hőmérséklet: 2.7C
+Várható eső: 76%
+Dátum: 2025-10-21
+Időjárás: szeles
+Hőmérséklet: 5.4C
+Várható eső: 80%
+Dátum: 2025-10-22
+Időjárás: napos
+Hőmérséklet: 0.5C
+Várható eső: 63%
+Dátum: 2025-10-23
+Időjárás: ködös
+Hőmérséklet: 15.9C
+Várható eső: 83%
+Dátum: 2025-10-24
+Időjárás: ködös
+Hőmérséklet: 18.5C
+Várható eső: 68%
+Dátum: 2025-10-25
+Időjárás: semillen
+Hőmérséklet: 19.4C
+Várható eső: 100%
+Dátum: 2025-10-26
+Időjárás: ködös
+Hőmérséklet: 5.1C
+Várható eső: 68%
+Dátum: 2025-10-27
+Időjárás: szeles
+Hőmérséklet: 0.6C
+Várható eső: 94%
+Dátum: 2025-10-28
+Időjárás: napos
+Hőmérséklet: 8.6C
+Várható eső: 33%
+Dátum: 2025-10-29
+Időjárás: szeles
+Hőmérséklet: 15.2C
+Várható eső: 24%
+Dátum: 2025-10-30
+Időjárás: semillen
+Hőmérséklet: 4.5C
+Várható eső: 88%
+Dátum: 2025-10-31
+Időjárás: szeles
+Hőmérséklet: 14.7C
+Várható eső: 59%
+Dátum: 2025-11-01
+Időjárás: napos
+Hőmérséklet: 13.1C
+Várható eső: 26%
+Dátum: 2025-11-02
+Időjárás: napos
+Hőmérséklet: 10.2C
+Várható eső: 12%
+Dátum: 2025-11-03
+Időjárás: szeles
+Hőmérséklet: 10.1C
+Várható eső: 78%
+Dátum: 2025-11-04
+Időjárás: ködös
+Hőmérséklet: 19.5C
+Várható eső: 59%
+Dátum: 2025-11-05
+Időjárás: napos
+Hőmérséklet: 19.6C
+Várható eső: 22%
+Dátum: 2025-11-06
+Időjárás: semillen
+Hőmérséklet: 9.3C
+Várható eső: 31%
+Dátum: 2025-11-07
+Időjárás: semillen
+Hőmérséklet: 5.5C
+Várható eső: 20%
+Dátum: 2025-11-08
+Időjárás: semillen
+Hőmérséklet: 5.8C
+Várható eső: 8%
+Dátum: 2025-11-09
+Időjárás: semillen
+Hőmérséklet: 14.0C
+Várható eső: 74%
+Dátum: 2025-11-10
+Időjárás: ködös
+Hőmérséklet: 5.6C
+Várható eső: 87%
+Dátum: 2025-11-11
+Időjárás: szeles
+Hőmérséklet: 4.5C
+Várható eső: 68%
+Dátum: 2025-11-12
+Időjárás: napos
+Hőmérséklet: 0.7C
+Várható eső: 27%
+Dátum: 2025-11-13
+Időjárás: napos
+Hőmérséklet: 7.8C
+Várható eső: 45%
+Dátum: 2025-11-14
+Időjárás: semillen
+Hőmérséklet: 18.0C
+Várható eső: 3%
+Dátum: 2025-11-15
+Időjárás: napos
+Hőmérséklet: 10.8C
+Várható eső: 75%
+Dátum: 2025-11-16
+Időjárás: semillen
+Hőmérséklet: 1.6C
+Várható eső: 94%
+Dátum: 2025-11-17
+Időjárás: semillen
+Hőmérséklet: 7.8C
+Várható eső: 3%
+Dátum: 2025-11-18
+Időjárás: napos
+Hőmérséklet: 10.7C
+Várható eső: 55%
+Dátum: 2025-11-19
+Időjárás: semillen
+Hőmérséklet: 4.5C
+Várható eső: 91%
+Dátum: 2025-11-20
+Időjárás: esős
+Hőmérséklet: 17.2C
+Várható eső: 5%
+Dátum: 2025-11-21
+Időjárás: ködös
+Hőmérséklet: 12.6C
+Várható eső: 18%
+Dátum: 2025-11-22
+Időjárás: ködös
+Hőmérséklet: 4.1C
+Várható eső: 63%
+Dátum: 2025-11-23
+Időjárás: napos
+Hőmérséklet: 14.3C
+Várható eső: 90%
+Dátum: 2025-11-24
+Időjárás: esős
+Hőmérséklet: 11.3C
+Várható eső: 94%
+Dátum: 2025-11-25
+Időjárás: szeles
+Hőmérséklet: 7.9C
+Várható eső: 60%
+Dátum: 2025-11-26
+Időjárás: napos
+Hőmérséklet: 3.4C
+Várható eső: 38%
+Dátum: 2025-11-27
+Időjárás: semillen
+Hőmérséklet: 13.0C
+Várható eső: 9%
+Dátum: 2025-11-28
+Időjárás: szeles
+Hőmérséklet: 14.3C
+Várható eső: 74%
+Dátum: 2025-11-29
+Időjárás: szeles
+Hőmérséklet: 7.1C
+Várható eső: 54%
+Dátum: 2025-11-30
+Időjárás: semillen
+Hőmérséklet: 10.1C
+Várható eső: 96%
+Dátum: 2025-12-01
+Időjárás: esős
+Hőmérséklet: 7.2C
+Várható eső: 88%
+Dátum: 2025-12-02
+Időjárás: szeles
+Hőmérséklet: 11.2C
+Várható eső: 46%
+Dátum: 2025-12-03
+Időjárás: semillen
+Hőmérséklet: 9.5C
+Várható eső: 59%
+Dátum: 2025-12-04
+Időjárás: szeles
+Hőmérséklet: 17.0C
+Várható eső: 20%
+Dátum: 2025-12-05
+Időjárás: napos
+Hőmérséklet: 19.0C
+Várható eső: 31%
+Dátum: 2025-12-06
+Időjárás: esős
+Hőmérséklet: 1.2C
+Várható eső: 79%
+Dátum: 2025-12-07
+Időjárás: napos
+Hőmérséklet: 3.9C
+Várható eső: 29%
+Dátum: 2025-12-08
+Időjárás: ködös
+Hőmérséklet: 9.7C
+Várható eső: 93%
+Dátum: 2025-12-09
+Időjárás: napos
+Hőmérséklet: 18.3C
+Várható eső: 84%
+Dátum: 2025-12-10
+Időjárás: napos
+Hőmérséklet: 18.5C
+Várható eső: 47%
+Dátum: 2025-12-11
+Időjárás: ködös
+Hőmérséklet: 8.0C
+Várható eső: 91%
+Dátum: 2025-12-12
+Időjárás: semillen
+Hőmérséklet: 15.5C
+Várható eső: 73%
