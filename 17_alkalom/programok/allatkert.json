@@ -1,0 +1,92 @@
+[
+    {
+        "nev": "cirmos",
+        "faj": "Emlős",
+        "kor": 2,
+        "szoros_fajte": "rövidszüre"
+    },
+    {
+        "nev": "harkály",
+        "faj": "Madár",
+        "kor": 7,
+        "repul_kepes": true
+    },
+    {
+        "nev": "kígyó",
+        "faj": "Hüllő",
+        "kor": 6,
+        "merges": true
+    },
+    {
+        "nev": "bodri",
+        "faj": "Emlős",
+        "kor": 5,
+        "szoros_fajte": "HOSSZŰŰŰszporúú"
+    },
+    {
+        "nev": "pingvin",
+        "faj": "Madár",
+        "kor": 3,
+        "repul_kepes": false
+    },
+    {
+        "nev": "cirmos",
+        "faj": "Emlős",
+        "kor": 2,
+        "szoros_fajte": "rövidszüre"
+    },
+    {
+        "nev": "harkály",
+        "faj": "Madár",
+        "kor": 7,
+        "repul_kepes": true
+    },
+    {
+        "nev": "kígyó",
+        "faj": "Hüllő",
+        "kor": 6,
+        "merges": true
+    },
+    {
+        "nev": "Bodri",
+        "faj": "Emlős",
+        "kor": 5,
+        "szoros_fajte": "HOSSZŰŰŰszporúú"
+    },
+    {
+        "nev": "pingvin",
+        "faj": "Madár",
+        "kor": 3,
+        "repul_kepes": false
+    },
+    {
+        "nev": "cirmos",
+        "faj": "Emlős",
+        "kor": 2,
+        "szoros_fajta": "rövidszüre"
+    },
+    {
+        "nev": "harkály",
+        "faj": "Madár",
+        "kor": 7,
+        "repul_kepes": true
+    },
+    {
+        "nev": "kígyó",
+        "faj": "Hüllő",
+        "kor": 6,
+        "merges": true
+    },
+    {
+        "nev": "Bodri",
+        "faj": "Emlős",
+        "kor": 5,
+        "szoros_fajta": "HOSSZŰŰŰszporúú"
+    },
+    {
+        "nev": "pingvin",
+        "faj": "Madár",
+        "kor": 3,
+        "repul_kepes": false
+    }
+]
