@@ -247,4 +247,5 @@ def feladatok_pontok():
 
     print(db_max)
 
+
 # feladatok_pontok()
