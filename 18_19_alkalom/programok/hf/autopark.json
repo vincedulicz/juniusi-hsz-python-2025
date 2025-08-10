@@ -1,0 +1,34 @@
+[
+    {
+        "tipus": "sedan",
+        "gyarto": "toyota",
+        "evjarat": 2020,
+        "motor_tipus": "v6",
+        "kerekek_szama": 4,
+        "ajtok_szama": 700
+    },
+    {
+        "tipus": "kamiom",
+        "gyarto": "volvo",
+        "evjarat": 2018,
+        "motor_tipus": "v120",
+        "kerekek_szama": 8,
+        "teherbiras": 12000
+    },
+    {
+        "tipus": "sedan",
+        "gyarto": "toyota",
+        "evjarat": 2020,
+        "motor_tipus": "v6",
+        "kerekek_szama": 4,
+        "ajtok_szama": 700
+    },
+    {
+        "tipus": "kamiom",
+        "gyarto": "volvo",
+        "evjarat": 2018,
+        "motor_tipus": "v120",
+        "kerekek_szama": 8,
+        "teherbiras": 12000
+    }
+]
