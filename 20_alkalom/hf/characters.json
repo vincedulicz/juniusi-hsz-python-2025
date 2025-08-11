@@ -1,0 +1,14 @@
+[
+    {
+        "name": "xXxTesztellekxXx",
+        "type": "Warrior",
+        "hp": 666,
+        "level": 99
+    },
+    {
+        "name": "xXxTesztelle2kxXx",
+        "type": "Mage",
+        "hp": 666,
+        "level": 99
+    }
+]

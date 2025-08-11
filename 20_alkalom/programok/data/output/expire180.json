@@ -1,0 +1,47 @@
+{
+    "user-z9Xm4U": {
+        "valid_until": "2025.05.06",
+        "born-date": "1978.08.10",
+        "name": "Charlie Davis",
+        "age": 46,
+        "country": "SP",
+        "worker": false,
+        "other": []
+    },
+    "user-0LNsCb": {
+        "valid_until": "2025.06.04",
+        "born-date": "1951.04.23",
+        "name": "Alice Johnson",
+        "age": 73,
+        "country": "EU",
+        "worker": true,
+        "other": []
+    },
+    "user-qujm6M": {
+        "valid_until": "2025.05.13",
+        "born-date": "1948.02.22",
+        "name": "Emily Clark",
+        "age": 76,
+        "country": "EU",
+        "worker": true,
+        "other": []
+    },
+    "user-6gPRsh": {
+        "valid_until": "2025.06.08",
+        "born-date": "1958.05.27",
+        "name": "Jane Smith",
+        "age": 66,
+        "country": "HU",
+        "worker": false,
+        "other": []
+    },
+    "user-hnyQRj": {
+        "valid_until": "2025.04.02",
+        "born-date": "1926.11.01",
+        "name": "Jane Smith",
+        "age": 98,
+        "country": "HU",
+        "worker": true,
+        "other": []
+    }
+}
