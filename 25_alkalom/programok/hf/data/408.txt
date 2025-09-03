@@ -1,0 +1,67 @@
+Mikroelektronika labor jegyzőkönyv
+Áramkör szimuláció
+
+L3 csoport
+Mérés ideje és helye: 2008.10.06 10­12 óra (V2 302)
+
+A mérés célja: Egy kis bonyolultságú áramköri elem (C^2MOSFET­ekkel megvalósított Master­
+Slave D tároló) létrehozása a Mentor Graphics ICStudio UMC180 tervezőprogramjában és annak 
+tesztelése, valamint az idődiagram szerinti működés kiértékelése.
+
+Az áramkör kapcsolási rajza és működési elve: Az áramkör három funkcionális csoportra 
+osztható: Az első és harmadik „oszlopban” található négy­négy MOSFET tranzisztor egy­egy 
+C^2MOSFET latch tárolót alkot, a második „oszlop” pedig az inverter szerepét tölti be. Az első 
+C^2MOSFET felső pMOSFET­jeire az Nfi jelet, az alsó nMOSFET­jeire a Fi jelet kötjük, a 
+második C^2MOSFET­re pedig pont fordítva kötjük a kapuzójeleinket, ezzel ellentétes működést 
+érünk el a két funkcionális egységünkben, ugyanis Fi=1 és NFi=0 bemenetek hatására az első 
+egység nyitótartományba kerül, a második pedig záróba, ilyenkor tehát csak az első egység és az 
+inverter üzemel, aminek az az eredménye, hogy a Q kimeneten a D bemeneti jel jelenik meg két 
+invertálás után (ez az áramkör beírás funkciója). Ellentétes Fi és NFi jeleknél az első „oszlop” nem 
+működik és a második, valamint a harmadik blokk egy Q negált bemeneti jellel visszacsatolt ciklust 
+valósít meg, mely tartja a Fi jelek billenése előtti utolsó kimeneti Q jelet, mivel a visszacsatolt 
+negált jelet az inverter blokk újra ponálttá teszi (ez az áramkör tárolás funkciója).
+A gerjesztő jeleink különböző paraméterű négyszögjelek, melyek adatai az alábbi táblázatban 
+találhatók (a jelek összes tulajdonságát alapértéken hagytuk, kivéve a felsorolt hármat):
+
+Gerjesztőjelek
+
+Delay [ns]
+
+Width [ns]
+
+Period [ns]
+
+Fi
+
+3.8
+
+14.9
+
+31.5
+
+NFi
+
+16.4
+
+18.8
+
+31.5
+
+D
+
+0
+
+1.4
+
+3
+
+A kapott idődiagram a D, Fi, és NFi bemenetei jelekkel és a Q kimeneti jellel:
+
+Az eredmények kiértékelése: Az idődiagramon jól látszik, hogy a vártnak megfelelően, ha Fi=1 és 
+NFi=0, akkor D bemeneti jel megjelenik a Q kimeneti jelen. Ha pedig Fi=0 és NFi=1, akkor a Q 
+kimeneti jel utolsó értéke tárolódik mindez időben szinkronizáltan működik, tehát az áramkörünk 
+helyesen funkcionál.
+Megjegyzés: A Q kimeneti jel valamilyen oknál fogva nem látszik az áramköri rajzon, de 
+természetesen az inverter blokk kimeneti vezetékét neveztem el így.
+
+

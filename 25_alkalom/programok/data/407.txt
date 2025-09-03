@@ -1,0 +1,39 @@
+Mikroelektronika labor jegyzőkönyv
+Áramkör szimuláció
+
+L3 mérőcsoport
+Mérés ideje és helye: 2008.10.06 10-12 óra (V2 302)
+
+A mérés célja: C2MOS-okkal megvalósított Master-Slave D tároló létrehozása a Mentor Graphics
+ICStudio UMC180 tervezőprogram segítségével és annak tesztelése, valamint az idődiagramm
+szerinti működés kiértékelése.
+A pillanatfelvétel az áramkörömről:
+
+A latcheket (1. és 3. oszlop) nMos és pMos tranzisztorokkal valósítottuk meg ügyelni kellett arra,
+hogy a bulkokat jól kössük be. A középső oszlop egy inverter, mely Q jelet állítja elő.
+
+Íme az NFI , az FI és a D gerjesztő jelek alakja
+Ezen jelek csak csak 3 karakterisztikus tulajdonnságukban térnek el :
+delay, pulse, és widht
+a jeleknél ezek a tulajdonnságok rendre a következők [ns]:
+NFI : 18.8, 31.5, 16.4
+FI : 3.8, 31.5, 14.9
+D : 0,
+3,
+1.4
+
+A megvalósított egységünk 2 funkciót lát el : tárolást és beírást. Az FI és NFI jelek a latchaket
+irányítják. Ezeket fordítva kötjük be az első és második latch esetében. Tehát az elsőben az nMosok
+kapják az FI – t a második latchben pedik a pMosok ezzel azt érjük el, hogy egyszerre nem
+működhet a két latch. Az nMos 1-re érzékeny a pMos pedig a 0-ra. Így ha FI egy akkor az első
+oszlop nyit a második zár . Ekkor a beírás valósul meg, mivel a beérkező D jelet az első latch
+invertálja majd az inverterünk is és ki is küldi a kimenetre. Ha FI 0 akkor az első oszlop zár
+harmadik nyit , ekkor az utolsó bit- nyi adatot tárolja a szerkezetünk . Úgy hogy a második latch
+ráküldi az inverterre a Q negált jelet, amit vissza állít és visszaküld ismét a második latchre és így
+tovább.
+
+A latchek működését figyelemmel követhetjük az idődiagramon.
+
+Az ábra alátámasztja előzetes elvárásainkat mivel beíráskor leköveti a D jelet tároláskor pedig az
+utolsóként beérkezett jelet tartja a kimeneten.
+
